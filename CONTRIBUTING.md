@@ -18,8 +18,6 @@ To keep source code files readable and maintainable, AutoBSD uses a unified copy
 
 When creating a new source file, please include the following header at the very top:
 
-Copyright (c) [year] AutoBSD Contributors.  
-All rights reserved.
-
+This file is part of the '[PROJECT_NAME]' project.
+Copyright (c) [YEAR] AutoBSD Contributors.  
 SPDX-License-Identifier: BSD-2-Clause
-
